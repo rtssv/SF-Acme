@@ -1,0 +1,5 @@
+[user]
+	name = Sergey Savin
+	email = savingsv@gmail.com
+[alias]
+	history = log --graph
